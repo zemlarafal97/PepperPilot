@@ -1,2 +1,0 @@
-# PepperPilot
-PepperPilot Android App
